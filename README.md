@@ -176,7 +176,7 @@ footer{
         <h1>Fresh Cuts. Sharp Style.</h1>
         <p>Professional barber services with precision and confidence.</p>
 
-        <a href="https://wa.me/5920000000" class="btn">
+        <a href="https://wa.me/5927467605" class="btn">
             Book Appointment
         </a>
     </div>
